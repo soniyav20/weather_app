@@ -155,7 +155,7 @@ class _HomeState extends State<Home> {
                           fontFamily: 'BalsamiqSans'),
                     ),
                     Text(
-                      'Weather',
+                      'Weathher',
                       style: TextStyle(
                           fontWeight: FontWeight.bold,
                           color: Colors.red,
